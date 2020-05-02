@@ -1,0 +1,38 @@
+/* Media Queries */
+@media screen and (max-width: 768px) {
+  .skill,
+  .project {
+    width: 33.33333333333333%; }
+  .job-project {
+    width: 50%; } }
+
+@media screen and (max-width: 640px) {
+  .section-title {
+    font-size: 2em;
+    line-height: 1em; }
+  .info .container h1 {
+    font-size: 2.300em; }
+  .info .container h4 {
+    font-size: 1.500em; }
+  #nav li {
+    font-size: 0.875em; }
+  #nav li a span {
+    display: none; }
+  .line {
+    width: 200px; }
+  .job-company,
+  .job-period {
+    text-align: center; }
+  .skill,
+  .job-project,
+  .project {
+    float: left;
+    width: 50%; }
+  .text-right {
+    text-align: left; } }
+
+@media screen and (max-width: 480px) {
+  .section-content {
+    margin-top: 45px; }
+  #nav ul li {
+    padding: 0 5px; } }

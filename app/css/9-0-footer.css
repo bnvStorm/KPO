@@ -1,0 +1,34 @@
+/* 9. Footer */
+footer {
+  background-color: #377AAF;
+  padding: 50px;
+  text-align: center;
+  color: #fff;
+  padding: 25px; }
+
+footer a {
+  color: gold; }
+
+/* A. Clearfix */
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  font-size: 0;
+  clear: both;
+  visibility: hidden; }
+
+.clearfix {
+  display: inline-block; }
+
+/* A.1 Hides from IE5/Mac \*/
+* html .clearfix {
+  height: 1px; }
+
+.clearfix {
+  display: block; }
+
+/* End hide from IE5/Mac */
+.logo img {
+  width: 100px;
+  margin-bottom: 10px; }

@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+	<html>	
+		<head>
+			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+			<title>Промотход</title>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+			<!-- Loading: Normalize, Grid and Styles -->
+			<link rel="stylesheet" href="assets/css/normalize.css" media="screen">
+			<link rel="stylesheet" href="assets/css/grid.css" media="screen">
+			<link rel="stylesheet" href="assets/css/style.css" media="screen">
+
+			<!-- Loading: Font Awesome -->
+			<link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
+
+			<!--[if IE 7]>
+			<link rel="stylesheet" href="assets/font-awesome/css/font-awesome-ie7.min.css">
+			<![endif]-->
+
+			<!-- Loading: jQuery Magnific Popup Stylesheet -->
+			<link rel="stylesheet" href="assets/js/magnific/jquery.magnific-popup.css" media="screen">
+
+			<!-- Loading: jQuery Easy Pie Chart Stylesheet -->
+			<link rel="stylesheet" href="js/diagram/assets/js/easy-pie/jquery.easy-pie-chart.css" media="screen">
+
+			<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<![endif]-->
+
+			<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+			<script type="text/javascript">
+			  google.charts.load('current', {'packages':['corechart']});
+			  google.charts.setOnLoadCallback(drawChart);
+		
+			  function drawChart() {
+		
+				var data = google.visualization.arrayToDataTable([
+				  ['Task', 'Hours per Day'],
+				  ['Бумага',     2000],
+				  ['Стекло',      2000],
+				  ['Пластик',  2000],
+				  ['Остаточный мусор', 2000],
+				  ['Органические отходы', 2000]
+				]);
+		
+				var options = {
+				  title: '',
+				  is3D: true,
+				  backgroundColor:'#F8D227',
+				  colors:['#4F81BD','#00B050','#FFF06E','#000000','#984807'],
+				  fontSize:'20',
+				  legend:{position: 'left', textStyle: {color: '#000', fontSize: 18}},
+				  titleTextStyle: {color: 'black', fontSize: 21},
+				  tooltip: { trigger: 'none' },
+				  pieSliceText: 'none'
+				  
+				};
+		
+				var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+		
+				chart.draw(data, options);
+			  }
+			</script>
+		</head>
+
+	<body>
+
+		<!-- Start: Intro -->
+		<section id="intro" class="fx-backstretch">
+			<div class="info">
+				<div class="container">
+					<div class="row">
+						<div class="col-full">
+							<h1>ЭКОлогичное решение по управлению отходами. Система контейнеров, отвечающая любым требованиям</h1>
+						</div>
+					</div>
+					<div class="row"><div class="col-1-4 centered line"></div></div>
+					<div class="row">
+						<div class="col-full"><h4>Разработка, реализация и гарантия качества контейнеров для отходов</h4></div>
+					</div>
+					<div class="row">
+						<div class="col-full"><h4>Мы в соц.сетях:</h4></div>
+					</div>
+					<ul class="social-links clearfix">
+						<li><a href="#" title="Twitter"><i class="icon-twitter-sign"></i></a></li>
+						<li><a href="#" title="Facebook"><i class="icon-facebook-sign"></i></a></li>
+						<li><a href="#" title="Google Plus"><i class="icon-google-plus-sign"></i></a></li>
+						<li><a href="#" title="Instagram"><i class="icon-instagram"></i></a></li>
+					</ul>
+				</div>
+			</div>
+
+		</section>
+		<!-- End: Intro -->
+
+		<!-- Start: Personal profile -->
+		<section id="profile" class="section">
+			<div class="decor1"></div>
+	
+			<div class="container">
+				<div class="row">
+					<div class="col-full">
+						<h2 class="section-title">Добро пожаловать</h2>
+						<div class="centered line"></div>
+					</div>
+				</div>
+			
+				<div class="row section-content wel-sec">
+					<div class="col-1-4">
+						<h4>Для промышленных отходов</h4>
+
+						<p>Контейнеры для промышленных отходов и ТБО различного объема (от 90 литров до 8 м3) </p>
+
+					</div>
+					<div class="col-1-4">
+						<h4>Для раздельного сбора отходов</h4>
+
+						<p>Контейнеры для различного вида ламп для их безопасной транспортировки и хранения</p>
+
+					</div>
+					<div class="col-1-4">
+						<h4>Аварийные комплекты и сорбенты</h4>
+
+						<p>Двух-, трех-, четырех-секционные контейнеры для домашнего, офисного и промышленного использования</p>
+
+					</div>
+					<div class="col-1-4">
+						<h4>Для раздельного сбора отходов</h4>
+
+						<p>Продукция для сбора разливов масел, дизельного топлива, мазута и химических отходов</p>
+
+
+					</div>
+				</div>
+			</div>
+			<!-- <div class="decor2"></div> -->
+		</section>
+		<!-- End: Personal profile -->
+
+		<!-- Start: Technical Skills -->
+		<section id="skills" class="section-alt">
+			<div class="container">
+				<div class="row skills-title">
+					<div class="col-full">
+						<h2 class="section-title">Сопровождение заказа с момента проектирования до полного выполнения.</h2>
+						<div class="centered line"></div>
+					</div>
+				</div>
+
+				<div class="row section-content">
+					<!-- Start: Skill -->
+					<div class="col-1-5 skill">
+						<div class="skill-pie" data-percent="10">10%</div>
+						<div class="skill-txt">
+							<h4>Ваш Звонок.</h4>
+						</div>
+						
+					</div>
+					<!-- End: Skill -->
+					<!-- Start: Skill -->
+					<div class="col-1-5 skill">
+						<div class="skill-pie" data-percent="30">30%</div>
+						<div class="skill-txt">
+							<h4>Электронное письмо на нашу почту с описанием и техническими данными необходимого Вам контейнера</h4>
+						</div>
+						
+					</div>
+					<!-- End: Skill -->
+					
+					<!-- Start: Skill -->
+					<div class="col-1-5 skill">
+						<div class="skill-pie" data-percent="65">65%</div>
+						<div class="skill-txt">
+							<h4>Наше решение или разработка нового контейнера по Вашему запросу</h4>
+						</div>
+						
+					</div>
+					<!-- End: Skill -->
+					<!-- Start: Skill -->
+					<div class="col-1-5 skill">
+						<div class="skill-pie" data-percent="85">85%</div>
+						<div class="skill-txt">
+							<h4>Изготовление контейнера в кратчайшие сроки</h4>
+						</div>
+						
+					</div>
+					<!-- End: Skill -->
+					<div class="col-1-5 skill">
+						<div class="skill-pie" data-percent="100">100%</div>
+						<div class="skill-txt">
+							<h4>Поставка контейнера по Вашему адресу</h4>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End: Technical Skills -->
+
+		<!-- Start: Work Experience -->
+		<section id="experience" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-full">
+						<h2 class="section-title">Мировая практика маркировки отходов </h2>
+						<div class="centered line"></div>
+					</div>
+				</div>
+				<div id="piechart" style="max-width: 700px;width:100%; height: 400px;"></div>
+			</div>
+		</section>
+		<!-- End: Work Experience -->
+
+		<!-- Start: Education -->
+		<section id="education" class="section-alt">
+			<div class="container">
+				<div class="row">
+					<div class="col-full">
+						<h2 class="section-title">О нашей компании</h2>
+						<div class="centered line"></div>
+					</div>
+				</div>
+
+				<div class="row section-content container-text">
+					<div class="row school">
+
+						<div class="col-full text-center">
+							Работаем  в Казахстане, России, Беларуси, Кыргызстане 8 лет. Производим  контейнеры и емкости различных объемов промышленных отходов и люминесцентных дамп. Официальные представители заводов-производителей Российской Федерации,  Республики Беларусь и Стран Европейского Союза. Также реализуем аварийные комплекты и сорбенты для сбора разливов дизельного топлива, масел, мазуты, сырой нефти и химических отходов. 
+						</div>
+					</div>
+
+					<div class="separator"></div>
+
+					<div class="row school">
+						<div class="col-full">
+							<h3>Осуществляем доставку в кратчайшие сроки.</h3>
+							<div class="school-meta">Для нас <span class="bullet">&bull;</span> Для вас. <span class="bullet">&bull;</span> Для всех</div>
+						</div>
+
+						<div class="col-full text-center">
+							Предоставляем гарантию на товар. Гарантийное и постгарантийное обслуживание. 
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End: Education -->
+
+		<!-- Start: Portfolio -->
+		<section id="portfolio" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-full">
+						<h2 class="section-title">Контейнеры</h2>
+						<div class="centered line"></div>
+					</div>
+				</div>
+
+				<div class="row section-content">
+					<!-- Portfolio filters -->
+					<div class="row">
+						<div class="col-full">
+							<ul class="filters">					
+								<li class="filter" data-filter="cont1">Контейнеры для промышленных отходов</li>
+								<li class="filter" data-filter="cont2">Контейнеры для отработанных люминесцентных (ртутьсодержащих) ламп</li>
+								<li class="filter" data-filter="cont3">Контейнеры для раздельного сбора отходов</li>
+								<li class="filter" data-filter="cont4">Аварийные комплекты и сорбенты</li>
+								<li class="filter" data-filter="all">Вся продукция</li>
+							
+							</ul>
+						</div>
+					</div>
+
+					<!-- Portfolio items -->
+					<div class="row projects gallery">
+						<div class="col-1-6 project cont1"><a href="assets/img/containers/one/1big-min.png" title="КПО-1, 2, 3, Ф"><img src="assets/img/containers/one/1min-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont1"><a href="assets/img/containers/one/2big-min.png" title="КПО-1, 2, 3, Ф"><img src="assets/img/containers/one/2min-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont1"><a href="assets/img/containers/one/3big-min.jpg" title="КПО-1, 2, 3, Ф"><img src="assets/img/containers/one/3min-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont1"><a href="assets/img/containers/one/4big-min.png" title="БКО, БКЗ"><img src="assets/img/containers/one/4min-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont1"><a href="assets/img/containers/one/5big-min.png" title="КПО-1, 2, 3, Ф"><img src="assets/img/containers/one/5min-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont1"><a href="assets/img/containers/one/6big-min.jpg" title="КПО-1, 2, 3, Ф"><img src="assets/img/containers/one/6min-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont1"><a href="assets/img/containers/one/7big-min.png" title="КПО-1, 2, 3, Ф"><img src="assets/img/containers/one/7min-min.png" alt=""></a></div>
+
+						<div class="col-1-6 project cont2"><a href="assets/img/containers/two/3-min.png" title="Project 2"><img src="assets/img/containers/two/3m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont2"><a href="assets/img/containers/two/4-min.png" title="Project 2"><img src="assets/img/containers/two/4m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont2"><a href="assets/img/containers/two/6-min.png" title="Project 2"><img src="assets/img/containers/two/6m-min.png" alt=""></a></div>
+						
+						<div class="col-1-6 project cont3"><a href="assets/img/containers/three/1-min.jpg" title="Project 3"><img src="assets/img/containers/three/1m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont3"><a href="assets/img/containers/three/3m-min.jpg" title="Project 3"><img src="assets/img/containers/three/3m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont3"><a href="assets/img/containers/three/4m-min.jpg" title="Project 3"><img src="assets/img/containers/three/4m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont3"><a href="assets/img/containers/three/5m-min.jpg" title="Project 3"><img src="assets/img/containers/three/5m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont3"><a href="assets/img/containers/three/6m-min.jpg" title="Project 3"><img src="assets/img/containers/three/6m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont3"><a href="assets/img/containers/three/7m-min.jpg" title="Project 3"><img src="assets/img/containers/three/7m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont3"><a href="assets/img/containers/three/8m-min.jpg" title="Project 3"><img src="assets/img/containers/three/8m-min.png" alt=""></a></div>
+
+						<div class="col-1-6 project cont4"><a href="assets/img/containers/four/1m-min.png" title="Project 4"><img src="assets/img/containers/four/1m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont4"><a href="assets/img/containers/four/2m-min.jpg" title="Project 4"><img src="assets/img/containers/four/2m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont4"><a href="assets/img/containers/four/3m-min.jpg" title="Project 4"><img src="assets/img/containers/four/3m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont4"><a href="assets/img/containers/four/4m-min.png" title="Project 4"><img src="assets/img/containers/four/4m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont4"><a href="assets/img/containers/four/5m-min.png" title="Project 4"><img src="assets/img/containers/four/5m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont4"><a href="assets/img/containers/four/14m-min.jpg" title="Project 4"><img src="assets/img/containers/four/14m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont4"><a href="assets/img/containers/four/15m-min.jpg" title="Project 4"><img src="assets/img/containers/four/15m-min.png" alt=""></a></div>
+						<div class="col-1-6 project cont4"><a href="assets/img/containers/four/16m-min.jpg" title="Project 4"><img src="assets/img/containers/four/16m-min.png" alt=""></a></div>
+						
+
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End: Portfolio -->
+
+		<!-- Start: Contact -->
+		<section id="contact" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-full">
+						<h2 class="section-title">Свяжитесь с нами</h2>
+						<div class="centered line"></div>
+					</div>
+				</div>
+
+				<div class="row section-content">
+					<div class="col-1-1 col-wrap centered text-center">
+						<div id="form-message"></div>
+						<form id="form-contact" name="form-contact">
+							<div class="col-full">
+								<label for="name">Ваше имя?</label>
+								<input type="text" name="name" id="name" value="">
+							</div>
+							<div class="col-full">
+								<label for="name">Ваш email?</label>
+								<input type="text" name="email" id="email" value="">
+							</div>
+							<div class="col-full">
+								<label for="name">Ваше сообщение?</label>
+								<textarea name="message" id="message" rows="4"></textarea>
+							</div>
+							<div class="col-full">
+								<a href="#" class="button button-medium button-submit" id="submit-contact">Отправить</a>
+							</div>
+						</form>
+					</div>
+
+					<div class="separator"></div>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<div class="container">
+				<div class="logo">
+					<a href="#"><img src="../assets/img/ico/logo.png" alt="логотип"></a>
+				</div>
+			Copyright <a href="#">ТОО «Промотход Сервис» </a>
+			</div>
+		</footer>
+
+		<!-- Loading: jQuery and custom script -->
+		<script src="assets/js/jquery-1.10.2.min.js"></script>
+		<script src="assets/js/jquery-migrate-1.2.1.min.js"></script>
+
+		<!-- Loading: jQuery MixItUp (portfolio filters) -->
+		<script src="assets/js/jquery.mixitup.min.js"></script>
+
+		<!-- Loading: jQuery Magnific Popup (lightbox) -->
+		<script src="assets/js/magnific/jquery.magnific-popup.min.js"></script>
+
+		<!-- Loading: jQuery Easy Pie Chart -->
+		<script src="assets/js/easy-pie/jquery.easy-pie-chart.js"></script>
+
+		<!-- Loading: jQuery Sticky -->
+		<script src="assets/js/jquery.sticky.js"></script>
+
+		<!-- Loading: jQuery Backstretch (full photo background) -->
+		<script src="assets/js/jquery.backstretch.min.js"></script>
+
+		<!-- Loading, Setting Up: Form, Form Validation Plugin -->
+		<script src="assets/js/jquery.form.min.js" type="text/javascript"></script>
+		<script src="assets/js/jquery.validate.min.js" type="text/javascript"></script>
+		<script src="assets/js/jquery.validation.settings.js" type="text/javascript"></script>
+
+		<!-- Loading: Respond.js - Responsive IE8 -->
+		<script src="assets/js/respond.min.js"></script>
+
+		<script src="assets/js/jquery.scrollto.min.js"></script>
+		<script src="assets/js/jquery.nav.js"></script>
+
+		<!--[if lt IE 9]>
+		<script src="assets/js/excanvas.js"></script>
+		<![endif]-->
+
+		<!-- Loading: Custom scripting -->
+		<script src="assets/js/custom.js" type="text/javascript"></script>
+
+	</body>
+
+</html>

@@ -1,0 +1,31 @@
+.testimonials .owl-controls{
+	display:none;
+}
+/*MAIN*/
+.tp-caption.large{
+	text-align: center;
+}
+.services-1 h3{
+	font-size: 14px;
+}
+.services-1 .col-wrapper{
+	padding: 0;
+}
+.navbar.default{
+	top:0;
+}
+/*MAIN*/
+/*SHOWCASE*/
+.fix-portfolio .items li img{
+	width: 440px;
+	height: 330px;
+}
+/*SHOWCASE*/
+/*FOOTER*/
+.social li{
+	font-family: 'Raleway', sans-serif;
+}
+.social li a{
+	font-size: 20px;
+}
+/*FOOTER*/

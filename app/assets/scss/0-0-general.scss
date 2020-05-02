@@ -1,0 +1,31 @@
+/* 1. General */
+
+@import url(https://fonts.googleapis.com/css?family=Tinos&subset=latin,cyrillic);
+
+html, body { height: 100%; }
+
+body {
+	font-family: 'Tinos';
+	margin: 0 auto;
+	background-color: #A565A1;
+	color: #fff;
+}
+
+img { max-width: 100%; }
+
+a {
+	outline: 0!important;
+	color: #5b9bbc;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a img {
+	border: 0;
+	border-radius: 10px;
+}
+ul {
+	list-style: none;
+}

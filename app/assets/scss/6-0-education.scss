@@ -1,0 +1,46 @@
+/* 6. Education */
+#education{
+	background: url('../img/bg.jpg') 40% 50% no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 0;
+}
+#education:before{
+	content: "";
+	position:absolute;
+	width: 100%;
+	height: 100%;
+	background: rgba(63, 81, 181, 0.3);
+}
+#education .section-title{
+	margin-top: 30px;
+}
+#education .text-center{
+	font-size: 30px;
+}
+#education .container{
+	position: relative;
+}
+#education .section-content{
+	background:	rgba(0, 0,0, 0.7);
+	padding: 10px;
+	border-radius:10px;
+}
+#education .line { background-color: #f24759; }
+#education .bullet { color: #f24759; }
+#education a { color: #f24759; }
+
+.school h3 {
+	margin: 0 0 10px 0;
+	text-align: center;
+}
+
+.school-meta {
+	display: block;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+}
+.ul-list span {
+	color: rgb(22, 187, 22);
+}
