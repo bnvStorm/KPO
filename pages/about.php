@@ -1,15 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
 <?php include '../includes/head.php'; ?>
 <body>
-<?php include '../includes/navbar.php'; ?>
 <div class="body-wrapper">
-  <div id="about" class="section anchor">
+<?php include '../includes/navbar.php'; ?>
+  <!--/.navbar -->
+  <div id="home" class="section">
+    <div class="light-wrapper">
+      <div class="fullscreenbanner-container revolution" style="height:1vh;">
+     
+        <!-- /.fullscreenbanner --> 
+      </div>
+      <!-- /.fullscreenbanner-container --> 
+    </div>
+  </div>
+
+  
+     <div id="about" class="section anchor">
     <div class="light-wrapper">
       <div class="container inner">
         <h2 class="section-title text-center">о компании</h2>
         <p class="lead main text-center">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Грустный собрал ее приставка, свое вскоре ты, курсивных если, ipsum безорфографичный диких они. Океана дал за назад, предупредила. Себя, ipsum.</p>
         <div class="row">
           <div class="col-sm-8">
-            <h2>Our Working Place</h2>
+            <h2>Заголовок</h2>
             <p class="lead">Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Грустный собрал ее приставка, свое вскоре ты, курсивных если, ipsum безорфографичный диких они. Океана дал за назад, предупредила. Себя, ipsum</p>
             <p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Грустный собрал ее приставка, свое вскоре ты, курсивных если, ipsum безорфографичный диких они. Океана дал за назад, предупредила. Себя, ipsum</p>
             <p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Грустный собрал ее приставка, свое вскоре ты, курсивных если, ipsum безорфографичный диких они. Океана дал за назад, предупредила. Себя, ipsum</p>
@@ -176,7 +190,7 @@
     </div>
   </div>
   <!-- /#about -->
-  </div>
-  <?php include '../includes/footer.php'; ?>
-  </body>
+  <!-- /#contact -->
+<?php include '../includes/footer.php'; ?>
+</body>
 </html>

@@ -3,7 +3,6 @@
 <?php include 'includes/head.php'; ?>
 <body>
 <div class="body-wrapper">
-
 <?php include 'includes/navbar.php'; ?>
   <!--/.navbar -->
   <div id="home" class="section">
@@ -164,78 +163,6 @@
                 </div>
                 <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
             </li>
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
-
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
-
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
-                        <li class="item thumb web">
-              <figure><a href="#" data-contenturl="portfolio-post.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
-            </li>
           </ul>
           <!-- /.items --> 
         </div>
@@ -286,7 +213,7 @@
         </div>
       </div>
     </div>
-    <!-- /.container --> 
+
   </div> -->
   <!-- /.parallax -->
   <div class="parallax parallax3 customers">
