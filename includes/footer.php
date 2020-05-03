@@ -58,3 +58,11 @@
   gtag('config', 'UA-164363587-3');
 </script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- bitrix24 chat -->
+<script>
+        (function(w,d,u){
+                var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://cdn-ru.bitrix24.kz/b3194113/crm/site_button/loader_10_w1iom3.js');
+</script>
+<!-- bitrix24 chat -->
