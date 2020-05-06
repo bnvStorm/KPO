@@ -14,7 +14,7 @@
               <div class="caption large sfb" data-x="center" data-y="60" data-speed="900" data-start="800" data-easing="Sine.easeOut">ЭКОЛОГИЧНОЕ РЕШЕНИЕ <br> ПО УПРАВЛЕНИЮ ОТХОДАМИ. <br>СИСТЕМА КОНТЕЙНЕРОВ,<br> ОТВЕЧАЮЩАЯ ЛЮБЫМ ТРЕБОВАНИЯМ</div>
               <div class="caption small sfb" data-x="center" data-y="319" data-speed="900" data-start="1500" data-easing="Sine.easeOut">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</div>
               <div class="caption small sfb" data-x="center" data-y="362" data-speed="900" data-start="2200" data-easing="Sine.easeOut">
-                <div class="smooth"><a href="#portfolio" class="btn btn-border">Кнопка на контейнеры (нужна ли?)</a></div>
+                <div class="smooth"><a href="#portfolio" class="btn btn-border">Наша продукция</a></div>
               </div>
             </li>
           </ul>
