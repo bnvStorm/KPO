@@ -21,7 +21,8 @@
 <link href='https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>
 <link href="https://rpo.kz/style/type/fontello.css" rel="stylesheet">
 <link href="https://rpo.kz/style/type/budicons.css" rel="stylesheet">
-<link href="https://rpo.kz/style/css/site.addons.css" rel="stylesheet">
+<link href="../style/css/site.addons.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
       <script src="style/js/html5shiv.js"></script>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'includes/head.php'; ?>
+<!-- <link href="style/css/site.addons.css" rel="stylesheet"> -->
 <body>
 <div class="body-wrapper">
 <?php include 'includes/navbar.php'; ?>
@@ -10,7 +11,7 @@
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
           <ul>
-            <li data-transition="fade"> <img src="style/images/art/slider-bg1.jpg" alt="" />
+            <li data-transition="fade"> <img src="style/images/head.jpg" alt="" />
               <div class="caption large sfb" data-x="center" data-y="60" data-speed="900" data-start="800" data-easing="Sine.easeOut">ЭКОЛОГИЧНОЕ РЕШЕНИЕ <br> ПО УПРАВЛЕНИЮ ОТХОДАМИ. <br>СИСТЕМА КОНТЕЙНЕРОВ,<br> ОТВЕЧАЮЩАЯ ЛЮБЫМ ТРЕБОВАНИЯМ</div>
               <div class="caption small sfb" data-x="center" data-y="319" data-speed="900" data-start="1500" data-easing="Sine.easeOut">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</div>
               <div class="caption small sfb" data-x="center" data-y="362" data-speed="900" data-start="2200" data-easing="Sine.easeOut">
@@ -105,77 +106,77 @@
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\one\1min-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\1min-min.jpg" alt="" /> </a></figure>
             </li>
             <li class="item thumb one">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-2.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\one\2min-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\2min-min.jpg" alt="" /> </a></figure>
             </li>
                         <li class="item thumb one">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-3.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\one\4min-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\4min-min.jpg" alt="" /> </a></figure>
             </li>
                         <li class="item thumb two">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-4.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\one\5min-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\11.jpg" alt="" /> </a></figure>
             </li> 
             <li class="item thumb two">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-5.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\one\7min-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\7min-min.jpg" alt="" /> </a></figure>
             </li>
               <li class="item thumb two">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-6.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\two\1m-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\1m-min.jpg" alt="" /> </a></figure>
             </li>
                         <li class="item thumb three">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-7.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\two\2m-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\2m-min.jpg" alt="" /> </a></figure>
             </li>
              <li class="item thumb three">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-8.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\two\3m-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\3m-min.jpg" alt="" /> </a></figure>
             </li>
              <li class="item thumb four">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-9.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\two\4m-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\4m-min.jpg" alt="" /> </a></figure>
             </li>
              <li class="item thumb four">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-10.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\two\5m-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\5m-min.jpg" alt="" /> </a></figure>
             </li> 
             <li class="item thumb four">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-11.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img src="style\images\containers\two\6m-min.png" alt="" /> </a></figure>
+                <img src="style\images\containers\preview\6m-min.jpg" alt="" /> </a></figure>
             </li>
 
           </ul>

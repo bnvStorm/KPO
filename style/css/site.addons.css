@@ -1,6 +1,19 @@
 .testimonials .owl-controls{
 	display:none;
 }
+.navbar-header,.navbar-brand{
+	background: url('../images/menu.jpg');
+	background-position-x: 50%;
+	background-repeat: no-repeat;
+	/*background: #9a1f1f;*/
+}
+.navbar-brand{
+    background-position-x: 45%;
+}
+.navbar-brand:hover{
+	background: url('../images/menu.jpg');
+	background-position-x: 95%;
+}
 /*MAIN*/
 .tp-caption.large{
 	text-align: center;
@@ -14,10 +27,20 @@
 .navbar.default{
 	top:0;
 }
+.parallax.parallax3{
+	background: url('../images/1pt.jpg');
+}
+.parallax.parallax3:before{
+	content: '';
+	position: absolute;
+	background: rgb(0,0,0,0.7);
+	    height: 100%;
+    width: 100%;
+}
 /*MAIN*/
 /*SHOWCASE*/
 .owl-carousel .owl-item img{
-	    max-height: 600px;
+	max-height: 600px;
     max-width: 1024px;
     width: 100%;
     height: 100%;
@@ -27,15 +50,8 @@
 	padding-top: 0;
 }
 .fix-portfolio .items li img{
-	width: 440px;
-	height: 330px;
-}
-.fix-portfolio .items li{
-/*	width: 150px;*/
-}
-.fix-portfolio .items li img{
-/*	height: 145px;
-	width: 130px;*/
+/*	width: 440px;
+	height: 330px;*/
 }
 /*SHOWCASE*/
 /*FOOTER*/
