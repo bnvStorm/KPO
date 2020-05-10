@@ -10,6 +10,12 @@
 	background-repeat: no-repeat;
 	/*background: #9a1f1f;*/
 }
+.navbar .navbar-collapse{
+		background: url('../images/menu.jpg');
+}
+.navbar.fixed .navbar-collapse .navbar-nav{
+	overflow-y: unset;
+}
 .navbar-brand{
 	/*position: relative;*/
 	background:#fff;
