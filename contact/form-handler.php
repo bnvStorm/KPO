@@ -47,7 +47,7 @@ function sendEmail($subject, $content, $emailto, $emailfrom) {
 	
 	$from = $emailfrom;
 	$response_sent = 'Спасибо!';
-	$response_error = 'Error. Please try again.';
+	$response_error = 'Спасибо';
 	$subject =  filter($subject);
 	$url = "Origin Page: ".$_SERVER['HTTP_REFERER'];
 	$ip = "IP Address: ".$_SERVER["REMOTE_ADDR"];
