@@ -8,7 +8,7 @@
   <div class="pcw">
     <div class="container inner">
       <div class="owl-carousel portfolio-slider custom-controls">
-        <div class="item"><img src="style\images\containers\one\4big-min.png" width="1170" height="650" alt="" /></div>
+        <div class="item"><img src="style\images\containers\ondescriptione\3.jpg" width="1170" height="650" alt="" /></div>
       <!--   <div class="item"><img src="style/images/art/pp1-2.jpg" width="1170" height="650" alt="" /></div>
         <div class="item"><img src="style/images/art/pp1-3.jpg" width="1170" height="650" alt="" /></div> -->
       </div>

@@ -22,9 +22,10 @@
           <p class="lead main text-center">НАПИШИТЕ ИЛИ ПОЗВОНИТЕ:</p>
          <!--  <p>Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia.</p> -->
           <ul class="contact-info">
-            <li><i class="icon-location"></i>100019, Республика Казахстан, Карагандинская область, г. Караганда, ул. Механическая, строение 1/1</li>
-            <li><i class="icon-phone"></i><a href="tel:+7 708 439 87 54">+7 708 439 87 54</a></li>
-            <li><i class="icon-mail"></i><a href="mailto:vs@qwmo.net">vs@qwmo.net</a> </li>
+            <li><i class="icon-location"></i>100019, Республика Казахстан, Карагандинская область, г. Караганда, ул. Алиханова, д.5-416</li>
+            <li><i class="icon-phone"></i><a href="tel:+7 701 710 2856">+7 701 710 2856</a></li>
+            <li><i class="icon-phone"></i><a href="tel:+7 212 36 81 56">+7 (212) 36 81 56</a></li>
+            <li><i class="icon-mail"></i><a href="mailto:vs@qwmo.net">vsa@qwmo.net</a> </li>
           </ul>
           <div class="divide50"></div>
           <div class="form-container">
@@ -62,7 +63,7 @@
         </div>
       </div>
     </div>
-    <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A4f10be7339f39b0a5d515eaf12123dd46976eb1cb2bac5182e262eb1215642fc&amp;source=constructor" width="100%" height="519" frameborder="0"></iframe>
+    <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Aa4309103ae18cb56c9cf2da50be58bf2db355ca1277753bb25bd7d2aca48efd0&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>
   </div>
 
   <!-- /#contact -->

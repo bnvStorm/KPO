@@ -2,7 +2,7 @@
 include('SMTPClass.php');
 
 $use_smtp = '0';
-$emailto = 'yourname@yourdomain.com';
+$emailto = 'vsa@qwmo.net';
 
 	// retrieve from parameters
 	$emailfrom = isset($_POST["email"]) ? $_POST["email"] : "";
@@ -46,7 +46,7 @@ $emailto = 'yourname@yourdomain.com';
 function sendEmail($subject, $content, $emailto, $emailfrom) {
 	
 	$from = $emailfrom;
-	$response_sent = 'Thank you. Your messsage has been received.';
+	$response_sent = 'Спасибо!';
 	$response_error = 'Error. Please try again.';
 	$subject =  filter($subject);
 	$url = "Origin Page: ".$_SERVER['HTTP_REFERER'];

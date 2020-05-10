@@ -1,18 +1,56 @@
+*{
+	font-family: 'Montserrat';
+}
 .testimonials .owl-controls{
 	display:none;
 }
-.navbar-header,.navbar-brand{
+.navbar-header{
 	background: url('../images/menu.jpg');
 	background-position-x: 50%;
 	background-repeat: no-repeat;
 	/*background: #9a1f1f;*/
 }
 .navbar-brand{
-    background-position-x: 45%;
+	/*position: relative;*/
+	background:#fff;
+    /*background-position-x: 45%;*/
 }
+
 .navbar-brand:hover{
-	background: url('../images/menu.jpg');
-	background-position-x: 95%;
+/*	background: url('../images/menu.jpg');
+	background-position-x: 95%;*/
+	background:#fff;
+}
+.navbar-nav > li > a{
+	font-size: 20px;
+}
+
+.parallelogram {
+    width: 160px;
+    height: 100px;
+    -webkit-transform: skew(30deg);
+    -moz-transform: skew(30deg);
+    -o-transform: skew(30deg);
+    transform: skew(30deg);
+}
+.parallelogram img{
+	    width: 100%;
+    max-width: 75px;
+        margin: 0 0 0 15px;
+        -webkit-transform: skew(-30eg);
+    -moz-transform: skew(-30deg);
+    -o-transform: skew(-30deg);
+    transform: skew(-30deg);
+}
+
+.tp-caption.large{
+	text-align: center;
+}
+.tp-caption.large,.tp-caption.small,.btn.btn-border{
+	color: #fff;
+}
+.tp-simpleresponsive >ul >li{
+	/*top:10% !important;*/
 }
 /*MAIN*/
 .tp-caption.large{
