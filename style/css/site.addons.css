@@ -116,3 +116,7 @@
 	font-size: 20px;
 }
 /*FOOTER*/
+
+@media (max-width: 767px){}
+.inner {
+    padding-top: 95px;}}
