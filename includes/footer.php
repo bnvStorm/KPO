@@ -32,7 +32,7 @@
 <script src="https://rpo.kz/style/js/instafeed.min.js"></script> 
 <script src="https://rpo.kz/style/js/retina.js"></script> 
 <script src="https://rpo.kz/style/js/google-code-prettify/prettify.js"></script> 
-<script src="../../style/js/scripts.js"></script>
+<script src="https://rpo.kz/style/js/scripts.js"></script>
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
