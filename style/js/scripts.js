@@ -431,7 +431,7 @@ $(document).ready(function () {
 /*	OWL CAROUSEL
 /*-----------------------------------------------------------------------------------*/
 jQuery(document).ready(function($) {
-              $('.testimonials').owlCarousel({
+              $('.testimonials1').owlCarousel({
                 items: 1,
                 nav:true,
                 navText: ['<i class="icon-left-open-big"></i>','<i class="icon-right-open-big"></i>'],

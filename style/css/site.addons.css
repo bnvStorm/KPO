@@ -75,6 +75,16 @@
 	    height: 100%;
     width: 100%;
 }
+.testimonials .item blockquote{
+	padding-left: 0;
+	padding-right: 0;
+	font-size: 14px;
+}
+.testimonials .item blockquote:after{
+	top: 80%;
+}
+.testimonials .item blockquote:before {
+    top: -30px;}
 /*MAIN*/
 /*SHOWCASE*/
 .owl-carousel .owl-item img{
