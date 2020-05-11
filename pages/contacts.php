@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <?php include '../includes/head.php'; ?>
+</head>
 <body>
 <div class="body-wrapper">
 <?php include '../includes/navbar.php'; ?>

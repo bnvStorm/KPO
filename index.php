@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'includes/head.php'; ?>
+</head>
 <!-- <link href="style/css/site.addons.css" rel="stylesheet"> -->
 <body>
 <div class="body-wrapper">
