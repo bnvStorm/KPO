@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <?php include 'includes/head.php'; ?>
 </head>
 <!-- <link href="style/css/site.addons.css" rel="stylesheet"> -->

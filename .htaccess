@@ -12,7 +12,3 @@ RewriteRule ^(.*)$ $1.php
 #errors pages
 ErrorDocument 404 /404.php
 ErrorDocument 500 /404.php
-
-
-RewriteRule .* - [E=HTTP_IF_MODIFIED_SINCE:%{HTTP:If-Modified-Since}]
-RewriteRule .* - [E=HTTP_IF_NONE_MATCH:%{HTTP:If-None-Match}]

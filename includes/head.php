@@ -1,5 +1,6 @@
 <head>
 <meta charset="utf-8">
+<meta http-equiv="Last-Modified" content="Mon, 11 May 2020 06:47:28 GMT">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link rel="shortcut icon" href="https://rpo.kz/style/images/favicon.png">
