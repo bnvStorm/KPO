@@ -129,6 +129,13 @@
 }
 /*SHOWCASE*/
 /*FOOTER*/
+.footer{
+	background: url('../images/menu.jpg');
+	color: #fff;
+}
+.footer a{
+	color: #fff;
+}
 .social li{
 	font-family: 'Raleway', sans-serif;
 }
