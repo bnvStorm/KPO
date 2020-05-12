@@ -12,7 +12,7 @@
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
           <ul>
-            <li data-transition="fade"> <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style/images/head.jpg" alt="" />
+            <li data-transition="fade"> <img src="style/images/head.jpg" alt="" />
               <div class="caption large sfb" data-x="center" data-y="center" data-speed="900" data-start="800" data-easing="Sine.easeOut">ЭКОЛОГИЧНОЕ РЕШЕНИЕ <br> ПО УПРАВЛЕНИЮ ОТХОДАМИ. <br>СИСТЕМА КОНТЕЙНЕРОВ,<br> ОТВЕЧАЮЩАЯ ЛЮБЫМ ТРЕБОВАНИЯМ</div>
               <div class="caption small sfb" data-x="center" data-y="419" data-speed="900" data-start="1500" data-easing="Sine.easeOut">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</div>
               <div class="caption small sfb" data-x="center" data-y="462" data-speed="900" data-start="2200" data-easing="Sine.easeOut">
