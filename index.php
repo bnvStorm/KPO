@@ -11,17 +11,16 @@
     <div class="light-wrapper">
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
-          <ul>
-            <li data-transition="fade"> <img src="style/images/head.jpg" alt="" />
-              <div class="caption large sfb" data-x="center" data-y="center" data-speed="900" data-start="800" data-easing="Sine.easeOut">ЭКОЛОГИЧНОЕ РЕШЕНИЕ <br> ПО УПРАВЛЕНИЮ ОТХОДАМИ. <br>СИСТЕМА КОНТЕЙНЕРОВ,<br> ОТВЕЧАЮЩАЯ ЛЮБЫМ ТРЕБОВАНИЯМ</div>
-              <div class="caption small sfb" data-x="center" data-y="419" data-speed="900" data-start="1500" data-easing="Sine.easeOut">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</div>
-              <div class="caption small sfb" data-x="center" data-y="462" data-speed="900" data-start="2200" data-easing="Sine.easeOut">
-                <!-- <div class="smooth"><a href="#portfolio" class="btn btn-border">Наша продукция</a></div> -->
-                         <a target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a>
-              </div>
+          <div class="main-txt">
+                        <p>
+                          ЭКОЛОГИЧНОЕ РЕШЕНИЕ <br> ПО УПРАВЛЕНИЮ ОТХОДАМИ. <br>СИСТЕМА КОНТЕЙНЕРОВ,<br> ОТВЕЧАЮЩАЯ ЛЮБЫМ ТРЕБОВАНИЯМ
+                        </p>
+                        <p class="small-txt">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</p>
+               <a target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a>
+              
+          </div>
+ 
 
-            </li>
-          </ul>
           <div class="tp-bannertimer tp-bottom"></div>
         </div>
         <!-- /.fullscreenbanner --> 
