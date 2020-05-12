@@ -117,6 +117,9 @@
 }
 /*FOOTER*/
 
-@media (max-width: 767px){}
+@media (max-width: 767px){
 .inner {
     padding-top: 95px;}}
+    .fix-portfolio .items{
+    	min-height: 640px;
+    }
