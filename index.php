@@ -17,7 +17,9 @@
               <div class="caption small sfb" data-x="center" data-y="419" data-speed="900" data-start="1500" data-easing="Sine.easeOut">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</div>
               <div class="caption small sfb" data-x="center" data-y="462" data-speed="900" data-start="2200" data-easing="Sine.easeOut">
                 <!-- <div class="smooth"><a href="#portfolio" class="btn btn-border">Наша продукция</a></div> -->
+                         <a href="https://www.instagram.com/"><img src="style/images/icon/inst.png" alt="instagram"></a>
               </div>
+
             </li>
           </ul>
           <div class="tp-bannertimer tp-bottom"></div>
