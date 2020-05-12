@@ -91,6 +91,12 @@
 }
 .testimonials .item blockquote:before {
     top: -30px;}
+
+.budicon-image{
+	width: 75px;
+	height: 75px;
+	background: url(../images/timer.png);
+}
 /*MAIN*/
 /*SHOWCASE*/
 .owl-carousel .owl-item img{
