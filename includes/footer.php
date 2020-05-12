@@ -29,7 +29,7 @@
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>
 <link href="https://rpo.kz/style/type/budicons.css" rel="stylesheet">
-<link href="https://rpo.kz/style/css/site.addons.css" rel="stylesheet">
+<link href="style/css/site.addons.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 <script src="https://rpo.kz/style/js/jquery.min.js"></script> 
 <script src="https://rpo.kz/style/js/bootstrap.min.js"></script> 

@@ -17,7 +17,7 @@
               <div class="caption small sfb" data-x="center" data-y="419" data-speed="900" data-start="1500" data-easing="Sine.easeOut">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</div>
               <div class="caption small sfb" data-x="center" data-y="462" data-speed="900" data-start="2200" data-easing="Sine.easeOut">
                 <!-- <div class="smooth"><a href="#portfolio" class="btn btn-border">Наша продукция</a></div> -->
-                         <a href="https://www.instagram.com/"><img src="style/images/icon/inst.png" alt="instagram"></a>
+                         <a href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a>
               </div>
 
             </li>
@@ -44,14 +44,14 @@
           </div>
           <div class="col-sm-3">
             <div class="col-wrapper">
-              <div class="icon-wrapper"> <img src="style/images/icon/2.jpg" alt=""></div>
+              <div class="icon-wrapper"> <img src="style/images/icon/3.jpg" alt=""></div>
               <h3>ДЛЯ РАЗДЕЛЬНОГО СБОРА ОТХОДОВ</h3>
               <p>Контейнеры для различного вида ламп для их безопасной транспортировки и хранения</p>
             </div>
           </div>
           <div class="col-sm-3">
             <div class="col-wrapper">
-              <div class="icon-wrapper"> <img src="style/images/icon/3.jpg" alt=""></div>
+              <div class="icon-wrapper"> <img src="style/images/icon/2.jpg" alt=""></div>
               <h3>ДЛЯ РАЗДЕЛЬНОГО СБОРА ОТХОДОВ</h3>
               <p>Продукция для сбора разливов масел, дизельного топлива, мазута и химических отходов</p>
             </div>

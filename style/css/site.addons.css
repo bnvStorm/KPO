@@ -104,6 +104,13 @@
     position: absolute;
     background: rgba(0, 0, 0, 0.14901960784313725);
 }
+.inst{
+	width: 50px;
+	height: 50px;
+}
+.services-1 .icon-wrapper img{
+	width: 100px;
+}
 /*MAIN*/
 /*SHOWCASE*/
 .owl-carousel .owl-item img{
