@@ -29,6 +29,7 @@
       <!-- /.fullscreenbanner-container --> 
     </div>
   </div>
+  <script src="https://rpo.kz/style/js/lazy.js"></script>
   <div id="services" class="section anchor">
     <div class="light-wrapper">
       <div class="container inner">
