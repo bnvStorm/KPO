@@ -17,7 +17,9 @@
 </div>
 <!-- .body-wrapper --> 
 <!-- Bootstrap core CSS -->
-<link href="https://rpo.kz/style/css/bootstrap.css" rel="stylesheet">
+<link href="https://rpo.kz/style/css/libs.min.css" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i' rel='stylesheet' type='text/css'>
+<!-- <link href="https://rpo.kz/style/css/bootstrap.css" rel="stylesheet">
 <link href="https://rpo.kz/style/css/settings.css" rel="stylesheet">
 <link href="https://rpo.kz/style/css/owl.carousel.css" rel="stylesheet">
 <link href="https://rpo.kz/style/js/google-code-prettify/prettify.css" rel="stylesheet">
