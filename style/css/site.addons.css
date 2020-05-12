@@ -92,7 +92,7 @@
     height: 100%;
     padding-top: 200px;
 }
-.main-txt p{
+.main-txt p,.inst-link{
 	z-index: 1;
 }
 .main-txt .small-txt{
