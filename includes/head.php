@@ -9,7 +9,6 @@
 <meta name="description" content="">
 <meta name="robots" content="index,follow">
 <script src="https://rpo.kz/style/js/lazy.js"></script>
-<link rel='preload' href="https://rpo.kz/style/type/fontello.css" rel="stylesheet">
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
       <script src="style/js/html5shiv.js"></script>
