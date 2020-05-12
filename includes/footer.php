@@ -21,10 +21,10 @@
 <link href="https://rpo.kz/style/css/settings.css" rel="stylesheet">
 <link href="https://rpo.kz/style/css/owl.carousel.css" rel="stylesheet">
 <link href="https://rpo.kz/style/js/google-code-prettify/prettify.css" rel="stylesheet">
-<link href="https://rpo.kz/style/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" media="all" />
-<link href="https://rpo.kz/style/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.2" rel="stylesheet" type="text/css" />
+<!-- <link href="https://rpo.kz/style/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://rpo.kz/style/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.2" rel="stylesheet" type="text/css" /> -->
 <link href="https://rpo.kz/style.css" rel="stylesheet">
-<link href="https://rpo.kz/style/css/color/blue.css" rel="stylesheet">
+<!-- <link href="https://rpo.kz/style/css/color/blue.css" rel="stylesheet"> -->
 <link href='https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>
@@ -41,8 +41,8 @@
 <script src="https://rpo.kz/style/js/jquery.isotope.min.js"></script> 
 <script src="https://rpo.kz/style/js/jquery.fitvids.js"></script> 
 <script src="https://rpo.kz/style/js/jquery.fancybox.pack.js"></script> 
-<script src="https://rpo.kz/style/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=1.0.2"></script> 
-<script src="https://rpo.kz/style/js/fancybox/helpers/jquery.fancybox-media.js?v=1.0.0"></script> 
+<!-- <script src="https://rpo.kz/style/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=1.0.2"></script> 
+<script src="https://rpo.kz/style/js/fancybox/helpers/jquery.fancybox-media.js?v=1.0.0"></script>  -->
 <script src="https://rpo.kz/style/js/jquery.slickforms.js"></script> 
 <script src="https://rpo.kz/style/js/instafeed.min.js"></script> 
 <script src="https://rpo.kz/style/js/retina.js"></script> 
