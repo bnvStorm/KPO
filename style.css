@@ -1420,7 +1420,6 @@ footer .post-list li em {
 /*	11. PARALAX
 /*-----------------------------------------------------------------------------------*/
 .parallax {
-    background: url(style/images/art/parallax1.jpg) fixed no-repeat center center;
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
@@ -1454,7 +1453,6 @@ footer .post-list li em {
     background-image: url(style/images/art/parallax2.jpg)
 }
 .parallax.parallax3 {
-    background-image: url(style/images/art/parallax3.jpg)
 }
 .parallax.parallax4 {
     background-image: url(style/images/art/parallax4.jpg)
