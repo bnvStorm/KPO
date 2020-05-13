@@ -25,9 +25,6 @@
 <link href="https://rpo.kz/style/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=1.0.2" rel="stylesheet" type="text/css" /> -->
 <link href="https://rpo.kz/style.css" rel="stylesheet">
 <!-- <link href="https://rpo.kz/style/css/color/blue.css" rel="stylesheet"> -->
-<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>
 <link href="https://rpo.kz/style/type/budicons.css" rel="stylesheet">
 <link href="https://rpo.kz/style/css/site.addons.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
