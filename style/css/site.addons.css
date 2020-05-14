@@ -58,6 +58,15 @@
 .tp-simpleresponsive >ul >li{
 	/*top:10% !important;*/
 }
+.icon-menu-1{
+    background: url(../images/icon/menu.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+    display: block;
+}
 /*MAIN*/
 .fullscreenbanner{
 	background: url(../images/head.jpg);
@@ -93,7 +102,10 @@
     height: 100%;
     padding-top: 200px;
 }
-.main-txt p,.inst-link{
+.main-txt h1{
+	color:#fff;
+}
+.main-txt p,.inst-link,.main-txt h1{
 	z-index: 1;
 }
 .main-txt .small-txt{
@@ -153,6 +165,11 @@
 	width: 100px;
 }
 /*MAIN*/
+/*ABOUT*/
+.icon .gala{
+	width: 30px;
+}
+/*ABOUT*/
 /*SHOWCASE*/
 .owl-carousel .owl-item img{
 	max-height: 600px;

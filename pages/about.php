@@ -120,7 +120,7 @@
               <div class="row">
                 <div class="col-sm-12">
                   <div class="bm20">
-                    <div class="icon"> <i class="budicon-camera-1 icn"></i> </div>
+                    <div class="icon"> <img class="gala" src="../style/images/icon/gala.png" alt="Иконка галочки"></i> </div>
                     <!-- /.icon -->
                     <div class="text">
                    <!--    <h4>Раз</h4> -->
@@ -130,7 +130,7 @@
                   </div>
                   <!-- /.div -->
                   <div class="bm20">
-                    <div class="icon"> <i class="budicon-video-1 icn"></i> </div>
+                    <div class="icon"> <img class="gala" src="../style/images/icon/gala.png" alt="Иконка галочки"></i> </div>
                     <!-- /.icon -->
                     <div class="text">
                     <!--   <h4>Два</h4> -->
@@ -140,7 +140,7 @@
                   </div>
                   <!-- /.div -->
                   <div class="bm20">
-                    <div class="icon"> <i class="budicon-radio icn"></i> </div>
+                    <div class="icon"> <img class="gala" src="../style/images/icon/gala.png" alt="Иконка галочки"></i> </div>
                     <!-- /.icon -->
                     <div class="text">
                      <!--  <h4>Три</h4> -->
@@ -149,7 +149,7 @@
                     <!-- /.text --> 
                   </div>
                                     <div class="bm20">
-                    <div class="icon"> <i class="budicon-radio icn"></i> </div>
+                    <div class="icon"> <img class="gala" src="../style/images/icon/gala.png" alt="Иконка галочки"></i> </div>
                     <!-- /.icon -->
                     <div class="text">
                    <!--    <h4>Четыре</h4> -->
