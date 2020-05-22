@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include '../includes/head.php'; ?>
+<title>Промотход сервис - контакты телефон адрес реквизиты</title>
+<meta name="description" content="Экологичные контейнерные площадки для вашего бизнеса. От проекта до внедрения. Все наши контакты на одной странице">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://rpo.kz/contacts"/>
 </head>
 <body>
 <div class="body-wrapper">

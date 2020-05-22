@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include 'includes/head.php'; ?>
+<title>Промотход сервис - контейнеры для мусора для бизнеса</title>
+<meta name="description" content="Экологичные контейнерные площадки для вашего бизнеса. От проекта до внедрения">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://rpo.kz"/>
 </head>
 <!-- <link href="style/css/site.addons.css" rel="stylesheet"> -->
 <body>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <?php include 'includes/head.php'; ?>
-<body>
+<meta name="robots" content="noindex,nofollow"></head> <body>
 <div class="body-wrapper" id="#portfolio-post.php">
   <!--/.navbar -->
   <div class="offset"></div>

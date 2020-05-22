@@ -5,9 +5,6 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link rel="shortcut icon" href="https://rpo.kz/style/images/favicon.png">
 
-<title>Промотход сервис - контейнеры для мусора для бизнеса</title>
-<meta name="description" content="Экологичные контейнерные площадки для вашего бизнеса. От проекта до внедрения">
-<meta name="robots" content="index,follow">
  <!-- social -->
 <meta property="og:title" content="Промотход Сервис">
 <meta property="og:type" content="article">
