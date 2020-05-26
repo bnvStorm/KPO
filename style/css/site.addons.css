@@ -202,7 +202,15 @@
 }
 /*FOOTER*/
 
-
+.yw figure a .text-overlay{
+    background: rgba(252, 225, 23, 0.6);
+}
+.bl figure a .text-overlay{
+    background: rgba(57, 49, 134, 0.6);;
+}
+.or figure a .text-overlay{
+    background: rgba(241, 126, 0, 0.6);
+}
 @media(max-width: 767px){
 .inner {
     padding-top: 95px;
