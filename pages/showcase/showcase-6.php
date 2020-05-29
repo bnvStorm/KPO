@@ -7,10 +7,11 @@
   <div class="offset"></div>
   <div class="pcw">
     <div class="container inner">
-      <div class="owl-carousel portfolio-slider custom-controls">
-        <div class="item"><img src="style\images\containers\description\5.jpg" width="1170" height="650" alt="" /></div>
-      <!--   <div class="item"><img src="style/images/art/pp1-2.jpg" width="1170" height="650" alt="" /></div>
-        <div class="item"><img src="style/images/art/pp1-3.jpg" width="1170" height="650" alt="" /></div> -->
+      <div class="owl-carousel portfolio-slider custom-controls desctop">
+        <div class="item "><img src="style\images\containers\description\6.jpg" width="1170" height="650" alt="" /></div>
+      </div>
+          <div class="owl-carousel portfolio-slider custom-controls mobile">
+        <div class="item"><img src="style\images\containers\mobile\6.jpg" width="640" height="400" alt="" /></div>
       </div>
       <div class="divide30"></div>
 <!--       <h1 class="post-title">Fermentum Purus Ligula</h1>

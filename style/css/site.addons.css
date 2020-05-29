@@ -1,6 +1,10 @@
 *{
 	font-family: 'Montserrat';
 }
+.mobile{
+	display: none !important;
+}
+
 .testimonials .owl-controls{
 	display:none;
 }
@@ -229,5 +233,12 @@
 }
 .main-txt .small-txt{
 	font-size: 14px;
+}
+.desctop{
+	display: none !important;
+
+}
+.mobile{
+	display: block !important;
 }
 }
