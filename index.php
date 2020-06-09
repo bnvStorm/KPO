@@ -113,38 +113,38 @@
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1.jpg" data-src="https://rpo.kz/style/images/containers/preview/1.jpg" alt="" /> </a></figure>
             </li>
             <li class="item thumb one bl">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-2.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\2min-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/2.jpg" data-src="style\images\containers\preview\2.jpg" alt="" /> </a></figure>
             </li>
                         <li class="item thumb one or">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-3.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\4min-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/3.jpg" data-src="style\images\containers\preview\3.jpg" alt="" /> </a></figure>
             </li>
                         <li class="item thumb two yw">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-5.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="pages/showcase/showcase-4.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\7min-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/5min-min.jpg" data-src="style\images\containers\preview\5min-min.jpg" alt="" /> </a></figure>
             </li>
                         <li class="item thumb two bl">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-4.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="pages/showcase/showcase-5.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
                 <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\11.jpg" alt="" /> </a></figure>
             </li> 
      <li class="item thumb three or">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-7.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="pages/showcase/showcase-6.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
@@ -152,14 +152,14 @@
             </li>
 
                          <li class="item thumb three yw">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-8.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="pages/showcase/showcase-7.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
                 <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\3m-min.jpg" alt="" /> </a></figure>
             </li>
                                  <li class="item thumb two bl">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-6.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="pages/showcase/showcase-8.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
@@ -174,14 +174,14 @@
                 <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\4m-min.jpg" alt="" /> </a></figure>
             </li>
                         <li class="item thumb four yw">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-11.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="pages/showcase/showcase-10.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
                 <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\6m-min.jpg" alt="" /> </a></figure>
             </li>
              <li class="item thumb four bl">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-10.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="pages/showcase/showcase-11.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
