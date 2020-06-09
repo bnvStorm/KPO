@@ -134,21 +134,21 @@
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/5min-min.jpg" data-src="style\images\containers\preview\5min-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/4.jpg" data-src="style\images\containers\preview\4.jpg" alt="" /> </a></figure>
             </li>
                         <li class="item thumb two bl">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-5.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\11.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/5.jpg" data-src="style\images\containers\preview\5.jpg" alt="" /> </a></figure>
             </li> 
      <li class="item thumb three or">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-6.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\2m-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/6.jpg" data-src="style\images\containers\preview\6.jpg" alt="" /> </a></figure>
             </li>
 
                          <li class="item thumb three yw">
@@ -156,14 +156,14 @@
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\3m-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/7.jpg" data-src="style\images\containers\preview\7.jpg" alt="" /> </a></figure>
             </li>
                                  <li class="item thumb two bl">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-8.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\1m-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/8.jpg" data-src="style\images\containers\preview\8.jpg" alt="" /> </a></figure>
             </li>
 
              <li class="item thumb four or">
@@ -171,21 +171,21 @@
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\4m-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/9.jpg" data-src="style\images\containers\preview\9.jpg" alt="" /> </a></figure>
             </li>
                         <li class="item thumb four yw">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-10.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\6m-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/10.jpg" data-src="style\images\containers\preview\10.jpg" alt="" /> </a></figure>
             </li>
              <li class="item thumb four bl">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-11.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style\images\containers\preview\5m-min.jpg" alt="" /> </a></figure>
+                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/11.jpg" data-src="style\images\containers\preview\11.jpg" alt="" /> </a></figure>
             </li> 
 
 

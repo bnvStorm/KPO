@@ -8,10 +8,10 @@
   <div class="pcw">
     <div class="container inner">
       <div class="owl-carousel portfolio-slider custom-controls desctop">
-        <div class="item "><img src="style\images\containers\description\11.jpg" width="1170" height="650" alt="" /></div>
+        <div class="item "><img src="style\images\containers\description\5.jpg" width="1170" height="650" alt="" /></div>
       </div>
           <div class="owl-carousel portfolio-slider custom-controls mobile">
-        <div class="item"><img src="style\images\containers\mobile\11.jpg" width="640" height="400" alt="" /></div>
+        <div class="item"><img src="style\images\containers\mobile\5.jpg" width="640" height="400" alt="" /></div>
       </div>
       <div class="divide30"></div>
 <!--       <h1 class="post-title">Fermentum Purus Ligula</h1>
