@@ -173,23 +173,7 @@
                 </div>
                 <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/9.jpg" data-src="style\images\containers\preview\9.jpg" alt="" /> </a></figure>
             </li>
-                        <li class="item thumb four yw">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-10.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/10.jpg" data-src="style\images\containers\preview\10.jpg" alt="" /> </a></figure>
-            </li>
-             <li class="item thumb four bl">
-              <figure><a href="#" data-contenturl="pages/showcase/showcase-11.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">Полноэкранный просмотр</div>
-                </div>
-                <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/11.jpg" data-src="style\images\containers\preview\11.jpg" alt="" /> </a></figure>
-            </li> 
-
-
-          </ul>
+                          </ul>
           <!-- /.items --> 
         </div>
         <!-- /.portfolio --> 
