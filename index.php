@@ -251,8 +251,8 @@
           <ul class="contact-info">
             <li><i class="icon-location"></i>100019, Республика Казахстан, Карагандинская область, г. Караганда, ул. Алиханова, д.5-416</li>
             <li><i class="icon-phone"></i><a href="tel:+7 701 710 2856">+7 701 710 2856</a></li>
-            <li><i class="icon-phone"></i><a href="tel:+7 212 36 81 56">+7 (212) 36 81 56</a></li>
-            <li><i class="icon-mail"></i><a href="mailto:vs@qwmo.net">vsa@qwmo.net</a> </li>
+            <li><i class="icon-phone"></i><a href="tel:+7 212 36 81 56">+7 (7212) 36 81 56</a></li>
+            <li><i class="icon-mail"></i><a href="mailto:psm@qwmo.net">psm@qwmo.net</a> </li>
           </ul>
           <div class="divide50"></div>
           <div class="form-container">
