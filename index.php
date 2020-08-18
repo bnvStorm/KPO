@@ -250,8 +250,8 @@
          <!--  <p>Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia.</p> -->
           <ul class="contact-info">
             <li><i class="icon-location"></i>100019, Республика Казахстан, Карагандинская область, г. Караганда, ул. Алиханова, д.5-416</li>
-            <li><i class="icon-phone"></i><a href="tel:+7 701 710 2856">+7 701 710 2856</a></li>
-            <li><i class="icon-phone"></i><a href="tel:+7 212 36 81 56">+7 (7212) 36 81 56</a></li>
+            <li><i class="icon-phone"></i><a href="tel:+77017102856">+7 701 710 2856</a></li>
+            <li><i class="icon-phone"></i><a href="tel:+77212368156">+7 (7212) 36 81 56</a></li>
             <li><i class="icon-mail"></i><a href="mailto:psm@qwmo.net">psm@qwmo.net</a> </li>
           </ul>
           <div class="divide50"></div>
