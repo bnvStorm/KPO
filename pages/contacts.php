@@ -27,10 +27,11 @@
           <p class="lead main text-center">НАПИШИТЕ ИЛИ ПОЗВОНИТЕ:</p>
          <!--  <p>Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia.</p> -->
           <ul class="contact-info">
-            <li><i class="icon-location"></i>100019, Республика Казахстан, Карагандинская область, г. Караганда, ул. Алиханова, д.5-416</li>
-            <li><i class="icon-phone"></i><a href="tel:+7 701 710 2856">+7 701 710 2856</a></li>
-            <li><i class="icon-phone"></i><a href="tel:+7 212 36 81 56">+7 (212) 36 81 56</a></li>
-            <li><i class="icon-mail"></i><a href="mailto:vs@qwmo.net">vsa@qwmo.net</a> </li>
+            <li><i class="icon-location"></i>РК, г. Караганда, ул. Алиханова д. 5, офис 414</li><br>
+            <li><i class="icon-phone"></i><a href="tel:+77212412988">+7 7212 41 29 88</a></li>
+            <li><i class="icon-phone"></i><a href="tel:+77057657788">+7 705 765 7788</a></li>
+            <li><i class="icon-mail"></i><a href="mailto:psb@qwmo.net">psb@qwmo.net</a> </li>
+            <li><i class="icon-mail"></i><a href="mailto:7057657788@mail.ru">7057657788@mail.ru</a> </li>
           </ul>
           <div class="divide50"></div>
           <div class="form-container">
