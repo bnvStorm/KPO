@@ -17,9 +17,10 @@
         <div class="fullscreenbanner">
           <div class="main-txt">
                         <h1>
-                          ЭКОЛОГИЧНОЕ РЕШЕНИЕ  ПО УПРАВЛЕНИЮ ОТХОДАМИ. <br> СИСТЕМА КОНТЕЙНЕРОВ, ОТВЕЧАЮЩАЯ ЛЮБЫМ ТРЕБОВАНИЯМ
+                          Просто и удобно для Вас – <br> эффективно и безопасно для Ваших партнеров
+
                         </h1>
-                        <p class="small-txt">РАЗРАБОТКА, РЕАЛИЗАЦИЯ И ГАРАНТИЯ КАЧЕСТВА КОНТЕЙНЕРОВ ДЛЯ ОТХОДОВ</p>
+                        <p class="small-txt">Разработка систем и гарантия качества контейнеров для отходов</p>
                <a class="inst-link" target="_blank" rel="nofollow" href="https://www.instagram.com/"><img class="inst" src="style/images/icon/inst.png" alt="instagram"></a>
               
           </div>
@@ -49,7 +50,7 @@
           <div class="col-sm-3">
             <div class="col-wrapper">
               <div class="icon-wrapper"> <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/1min-min.jpg" data-src="style/images/icon/3.jpg" alt=""></div>
-              <h3>ДЛЯ РАЗДЕЛЬНОГО СБОРА ОТХОДОВ</h3>
+              <h3>для отработанных ртутьсодержащих ламп</h3>
               <p>Контейнеры для различного вида ламп для их безопасной транспортировки и хранения</p>
             </div>
           </div>
@@ -143,13 +144,13 @@
                 </div>
                 <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/5.jpg" data-src="style\images\containers\preview\5.jpg" alt="" /> </a></figure>
             </li> 
-     <li class="item thumb three or">
+ <!--     <li class="item thumb three or">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-6.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">Полноэкранный просмотр</div>
                 </div>
                 <img class="lazyload" src="https://rpo.kz/style/images/containers/preview/6.jpg" data-src="style\images\containers\preview\6.jpg" alt="" /> </a></figure>
-            </li>
+            </li> -->
 
                          <li class="item thumb three yw">
               <figure><a href="#" data-contenturl="pages/showcase/showcase-7.php" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
@@ -249,10 +250,11 @@
           <p class="lead main text-center">НАПИШИТЕ ИЛИ ПОЗВОНИТЕ:</p>
          <!--  <p>Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia.</p> -->
           <ul class="contact-info">
-            <li><i class="icon-location"></i>100019, Республика Казахстан, Карагандинская область, г. Караганда, ул. Алиханова, д.5-416</li>
-            <li><i class="icon-phone"></i><a href="tel:+77017102856">+7 701 710 2856</a></li>
-            <li><i class="icon-phone"></i><a href="tel:+77212368156">+7 (7212) 36 81 56</a></li>
-            <li><i class="icon-mail"></i><a href="mailto:psm@qwmo.net">psm@qwmo.net</a> </li>
+            <li><i class="icon-location"></i>РК, г. Караганда, ул. Алиханова д. 5, офис 414</li><br>
+            <li><i class="icon-phone"></i><a href="tel:+77212412988">+7 7212 41 29 88</a></li>
+            <li><i class="icon-phone"></i><a href="tel:+77057657788">+7 705 765 7788</a></li>
+            <li><i class="icon-mail"></i><a href="mailto:psb@qwmo.net">psb@qwmo.net</a> </li>
+            <li><i class="icon-mail"></i><a href="mailto:7057657788@mail.ru">7057657788@mail.ru</a> </li>
           </ul>
           <div class="divide50"></div>
           <div class="form-container">

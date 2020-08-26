@@ -43,7 +43,7 @@
         </div>
         <div class="divide60"></div>
         <div class="row">
-          <div class="col-sm-4">
+          <div class="col-sm-6">
             <div class="section-title">
               <h3>Оплата и доставка</h3>
             </div>
@@ -80,16 +80,16 @@
             </ul> -->
             <!-- /.progress-list --> 
           </div>
-          <div class="col-sm-4">
+<!--           <div class="col-sm-4">
             <div class="section-title">
               <h3>Сотрудничество</h3>
             </div>
-            <!-- <div class="divide5"></div> -->
+            <div class="divide5"></div>
             <p>Услугами нашей компании за эти годы воспользовалось более тысячи заказчиков.
 Оплата за продукцию производится по условиям заключенного договора.
 Доставка может быть осуществлена в любую точку как нашими силами, так и по принципу самовывоза.
 </p>
-<!--             <div class="panel-group" id="accordion">
+            <div class="panel-group" id="accordion">
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h4 class="panel-title"> <a data-toggle="collapse" class="panel-toggle active" data-parent="#accordion" href="#collapseOne"> 100% Текста </a> </h4>
@@ -114,9 +114,9 @@
                   <div class="panel-body"> Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Инициал предложения грустный раз, одна то бросил вопрос жаренные текстов вершину рукопись маленькая, заглавных возвращайся своего повстречался страну что до? </div>
                 </div>
               </div>
-            </div> -->
-          </div>
-          <div class="col-sm-4">
+            </div>
+          </div> -->
+          <div class="col-sm-6">
             <div class="section-title">
               <h3>Последние события</h3>
             </div>
