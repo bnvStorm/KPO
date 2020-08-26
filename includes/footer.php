@@ -2,7 +2,7 @@
     <div class="container inner">
       <p class="pull-left">© 2020 ТОО "Промотход Сервис".</p>
       <ul class="social pull-right">
-        <li><a href="tel:+77017102856">+7 701 710 2856</a></li>
+        <li><a href="tel:+77057657788">+7 705 765 7788</a></li>
         <li><a href="#"><img style="width:30px;" src="../style/images/icon/winst.png" alt=""></a></li>
         <li><a href="#"><img style="width:30px;" src="../style/images/icon/wface.png" alt=""></a></li>
         <li><a href="#"><img style="width:30px;" src="../style/images/icon/wok.png" alt=""></a></li>
