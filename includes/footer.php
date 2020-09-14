@@ -3,9 +3,9 @@
       <p class="pull-left">© 2020 ТОО "Промотход Сервис".</p>
       <ul class="social pull-right">
         <li><a href="tel:+77057657788">+7 705 765 7788</a></li>
-        <li><a href="#"><img style="width:30px;" src="../style/images/icon/winst.png" alt=""></a></li>
-        <li><a href="#"><img style="width:30px;" src="../style/images/icon/wface.png" alt=""></a></li>
-        <li><a href="#"><img style="width:30px;" src="../style/images/icon/wok.png" alt=""></a></li>
+        <li><a target="_blank" href="#"><img style="width:30px;" src="../style/images/icon/winst.png" alt=""></a></li>
+        <li><a target="_blank" href="#"><img style="width:30px;" src="../style/images/icon/wface.png" alt=""></a></li>
+        <li><a target="_blank" href="#"><img style="width:30px;" src="../style/images/icon/wok.png" alt=""></a></li>
       </ul>
     </div>
     <!-- .container --> 
